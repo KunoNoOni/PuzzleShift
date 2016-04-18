@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MoveParticle.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="83" Column="41" />
+      <File FileName="Assets\Scripts\MouseController.cs" Line="113" Column="1" />
+      <File FileName="Assets\Scripts\BatController.cs" Line="11" Column="5" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="15" Column="38" />
+      <File FileName="Assets\Scripts\KillPlayer.cs" Line="24" Column="14" />
+      <File FileName="Assets\Scripts\NextLevel.cs" Line="14" Column="42" />
+      <File FileName="Assets\Scripts\Potion.cs" Line="20" Column="37" />
+      <File FileName="Assets\Scripts\MoveParticle.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
